@@ -12,7 +12,7 @@
     background-color: transparent;
     border-radius: 0.25rem;
     border: 1px solid;
-    padding: 1rem 2rem;
+    padding: 1rem 1rem;
     color: orange;
     cursor: pointer;
   }
